@@ -1,0 +1,6 @@
+C:\CENFOTEC\C-Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\CENFOTEC\C-Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\CENFOTEC\C-Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\CENFOTEC\C-Hello-World\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\CENFOTEC\C-Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\CENFOTEC\C-Hello-World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
