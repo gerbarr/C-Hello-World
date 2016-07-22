@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
+    /* Mi primer programa en C#
+     * Imprime Hola Mundo
+     * /
     class Program
     {
         static void Main(string[] args)
@@ -13,6 +16,7 @@ namespace HelloWorld
 
                Console.WriteLine("Hello World");
             Console.WriteLine("press any key to exit");
+            // lee una tecla
             Console.ReadKey();
 
         }
